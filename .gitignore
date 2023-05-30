@@ -1,0 +1,31 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+env.bak/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and data files
+*.log
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+dist/
+build/
+*.egg-info/
+
+*.docx
+
